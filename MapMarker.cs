@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GMap.NET.WindowsForms;
+using GMap.NET.WindowsForms.Markers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
